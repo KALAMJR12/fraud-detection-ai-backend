@@ -2,7 +2,7 @@
 
 A Flask-based backend that analyzes uploaded transaction files (e.g., CSV) to classify financial activities as **Low**, **Medium**, or **High Risk**, and prepares notifications for auditors.
 
-Built during the **Africa's Talking Open Hackathon** — by (https://github.com/YOUR_USERNAME).
+Built during the **Africa's Talking Open Hackathon** — by (https://github.com/KALAMJR12).
 
 ---
 
