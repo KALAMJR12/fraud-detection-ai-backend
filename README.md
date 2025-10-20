@@ -27,7 +27,7 @@ Built during the **Africa's Talking Open Hackathon** — by (https://github.com/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/fraud-detection-ai-backend.git
+git clone https://github.com/KALAMJR12/fraud-detection-ai-backend.git
 cd fraud-detection-ai-backend
 
 # 2. Create a virtual environment
